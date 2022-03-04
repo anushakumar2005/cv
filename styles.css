@@ -1,0 +1,219 @@
+.lightpurple2-section {
+  background-color: #6B76FF;
+}
+
+.lightpurple-section {
+  background-color: #FEFFE0;
+  padding-bottom: 50px;
+}
+
+.container-fluid {
+  padding: 1.5% 11% !important;
+}
+
+/* Nav Bar */
+.navbar {
+  right: 10px;
+}
+
+.navbar-container {
+  padding-top: 15px;
+}
+
+.navbar-brand {
+  font-family: 'Lobster Two', cursive;
+  font-size: 2.5rem !important;
+}
+
+.nav-item {
+  padding: 0 10px 0;
+  color: black;
+}
+
+.nav-link {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.1rem;
+}
+
+/* Title Section */
+.title-section {
+  padding-bottom: 170px;
+}
+
+.title-container {
+  bottom: 18px;
+  top: 40px;
+  right: 3px;
+  max-width: 55% !important;
+}
+
+.title {
+  font-size: 4.4rem;
+  color: #C8E4FE;
+  font-family: 'Fredericka the Great', cursive;
+  text-shadow: 4px 0 black;
+  text-align: left;
+  margin-left: 8px;
+  padding-top: 50px;
+}
+
+.stem-logo {
+  margin-top: 100px;
+  margin-left: 38px;
+  width: 90%;
+  border: 5px solid #C8E4FE;
+}
+
+/* Internships Section */
+.features-heading {
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  padding-top: 80px !important;
+  font-size: 3.8rem;
+  color: #A5AEFF;
+  padding-bottom: 50px !important;
+}
+
+/* Successful Women Section */
+#successful-women {
+  background-color: #6B76FF;
+  font-family: 'Smooch Sans', sans-serif;
+  padding-bottom: 80px;
+}
+
+.successful-women-heading {
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  padding-top: 80px !important;
+  font-size: 3.8rem;
+  color: #C8E4FE;
+  padding-bottom: 50px !important;
+}
+
+.testimonial-text {
+  line-height: 1.25;
+  color: white;
+}
+
+.testimonial-img {
+  width: 13%;
+  border-radius: 100%;
+  margin: 13px;
+  padding-top: 10px;
+}
+
+.name {
+  font-size: 1.5rem;
+  color: white;
+  padding-top: 10px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Importance Section */
+.importance-text {
+  padding-bottom: 20px;
+}
+
+.importance-pic {
+
+}
+
+/* Quiz Section */
+.take-quiz-btn {
+  margin-bottom: 75px;
+}
+
+.take-quiz-heading {
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  padding-top: 80px !important;
+  font-size: 3.8rem;
+  color: #C8E4FE;
+  padding-bottom: 25px;
+}
+
+
+/* Responsivity */
+@media (max-width: 540px) {
+
+  /* for Mobile */
+  .portrait {
+    top: 0;
+    left: 0;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+
+  @media (max-width: 540px) {
+
+    /* for Mobile */
+    .title, .features-heading, .about-me-title {
+      text-align: center;
+      font-size: 3rem !important;
+    }
+
+    @media (max-width: 540px) {
+
+      /* for Mobile */
+      .card {
+        text-align: center;
+      }
+
+      @media (max-width: 540px) {
+
+        /* for Mobile */
+        .about-me-text {
+          font-size: 20px;
+          padding-bottom: 50px;
+        }
+
+        @media (max-width: 540px) {
+
+          /* for Mobile */
+          .about-me-text {
+            font-size: 20px;
+            padding-bottom: 50px;
+          }
+
+          @media (max-width: 540px) {
+
+            /* for Mobile */
+            .features-heading {
+              padding-top: 50px !important;
+              padding-bottom: 20px !important;
+            }
+
+            @media (max-width: 540px) {
+
+              /* for Mobile */
+              .about-me-title {
+                padding-bottom: 20px;
+              }
+
+              @media (max-width: 540px) {
+
+                /* for Mobile */
+                .title-section, .portrait {
+                  padding-bottom: 30px !important;
+                }
+
+                @media (max-width: 540px) {
+
+                  /* for Mobile */
+                  .title {
+                    padding-bottom: 0px !important;
+                  }
